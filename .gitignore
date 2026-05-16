@@ -1,0 +1,29 @@
+# MATLAB
+*.asv
+*.autosave
+*.m~
+*.mex*
+*.mat.bak
+slprj/
+sccprj/
+*.slxc
+octave-workspace
+
+# MATLAB code generation
+codegen/
+
+# MATLAB Live Editor autosave / lock
+*.mlx.autosave
+~$*.mlx
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
